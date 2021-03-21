@@ -27,7 +27,7 @@ fun numberArray(){
 }
 fun names(num1:String,num2:String,num3:String){
     var name= arrayOf("$num1 ","$num2", "$num3" )
-    println(Arrays.toString(name)) // function to take in 3 Strings anr returns them all.
+    println(Arrays.toString(name)) // function to take in 3 Strings and returns them all.
 }
 
 
